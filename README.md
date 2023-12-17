@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"  />
+<!--<img align="right" height="250" src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"  />-->
 
 ###
 
